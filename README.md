@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AWS and DSA
 - 💞️ I’m looking to collaborate on innovative and unique projects
 - 📫 How to reach me ? ofcourse via email
+- 
 - ⚡ Fun fact: an idiot admires complexity , a genius admires simplicity
 
 <!---
